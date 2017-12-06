@@ -3,7 +3,7 @@ By University of Michigan
 
 ## Introduction
 
-All my programming assignments for the [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) are kept in this repo. This is only for reference and my learning track. Here we go.smiling_imp:
+All my programming assignments for the [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) are kept in this repo. This is only for reference and learning track.
 
 ## Links to Courses
 
