@@ -5,6 +5,3 @@
 2. Derive semantic topics from a large text collection using LDA.
 3. List and describe techniques for named entity recognition and other information extraction tasks.
 
-## Summary 
-1. Text similarity: path similarity, lowest common subsumer(LCS), lin similarity, distributional similarity 
-
